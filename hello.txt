@@ -1,0 +1,4 @@
+-novid -high -threads 2 -nojoy +cl_forcepreload 1 -nod3d9ex
+-processheap -console +exec autoexec.cfg +fps_max unlimited -lv
+-processheap -console +exec autoexec.cfg +fps_max unlimited -lv
+-novid -high -threads 2 -nojoy +cl_forcepreload 1 -nod3d9ex
